@@ -1,0 +1,5 @@
+This a file to clear the conceptos and troubles I am facing with GitHub 
+
+When I have a Singing name like X and an organization like N,being this N the name of the user, it must be set as default organization, and then push
+from local with git push --force https://github/organizacion/repository. 
+It could happen there is two organization and try to push tothe wrong one.
